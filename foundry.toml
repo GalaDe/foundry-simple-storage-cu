@@ -8,4 +8,4 @@ remappings = [
   '@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/',
 ]
 
-ffi = false # ⚠️ Set to true only when using vm.ffi; can be dangerous if unchecked external commands are allowed
+ffi = false # Set to true only when using vm.ffi; can be dangerous if unchecked external commands are allowed
